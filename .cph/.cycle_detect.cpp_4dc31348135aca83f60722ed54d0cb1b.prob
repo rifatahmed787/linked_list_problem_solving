@@ -1,0 +1,1 @@
+{"name":"Local: cycle_detect","url":"c:\\phitron_c++\\module_eleven\\cycle_detect.cpp","tests":[{"id":1720339077469,"input":"1 2 3 4 5 -1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron_c++\\module_eleven\\cycle_detect.cpp","group":"local","local":true}
