@@ -1,0 +1,1 @@
+{"name":"Local: remove_duplicate","url":"c:\\phitron_c++\\module_eleven\\remove_duplicate.cpp","tests":[{"id":1720341983125,"input":"1 1 2 3 2 2 3 -1","output":"1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron_c++\\module_eleven\\remove_duplicate.cpp","group":"local","local":true}
